@@ -20,13 +20,7 @@ Full-stack tinkerer & builder. Always cooking up new software, tools, and games.
 <br/>
 <br/>
 
-<!-- WORKING STREAK STATS CARD -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almxterPT&theme=tokyonight" />
-
-<br/>
-<br/>
-
-<!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=almxterPT&theme=tokyonight&column=4&margin-w=15" />
+<!-- CLEAN STAT CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=almxterPT&show_icons=true&theme=tokyonight" />
 
 </div>
