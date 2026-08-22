@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LOCAL BANNER GIF -->
-<img src="./banner.gif" width="100%" max-width="600px" alt="Sunset Banner" />
+<img src="./banner.gif.gif" width="100%" max-width="600px" alt="Sunset Banner" />
 
 <br/>
 <br/>
