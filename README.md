@@ -20,7 +20,8 @@ Full-stack tinkerer & builder. Always cooking up new software, tools, and games.
 <br/>
 <br/>
 
-<!-- CLEAN STAT CARD -->
-<img src="https://github-readme-stats.vercel.app/api?username=almxterPT&show_icons=true&theme=tokyonight" />
+<!-- PROFILE ACTIVITY BADGES -->
+![](https://img.shields.io/badge/Status-Active_Developer-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Learning-Python_&_Software_Dev-orange?style=for-the-badge)
 
 </div>
