@@ -21,12 +21,12 @@ Full-stack tinkerer & builder. Always cooking up new software, tools, and games.
 <br/>
 
 <!-- WORKING STREAK STATS CARD -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matycode&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almxterPT&theme=tokyonight" />
 
 <br/>
 <br/>
 
 <!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=matycode&theme=tokyonight&column=4&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=almxterPT&theme=tokyonight&column=4&margin-w=15" />
 
 </div>
