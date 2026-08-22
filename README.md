@@ -12,26 +12,21 @@ Full-stack tinkerer & builder. Always cooking up new software, tools, and games.
 
 <br/>
 
-<!-- ORANGE BADGES -->
+<!-- ORANGE TECH BADGES -->
 ![](https://img.shields.io/badge/Focus-Python-orange?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Building-Projects-orange?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Platform-VS_Code-orange?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 <br/>
 
-<!-- CLEAN STAT CARDS -->
-<img src="https://github-readme-stats.vercel.app/api?username=matycode&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matycode&layout=compact&theme=tokyonight" />
-
-<br/>
-
+<!-- WORKING STREAK STATS CARD -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matycode&theme=tokyonight" />
 
 <br/>
+<br/>
 
+<!-- TROPHY CASE -->
 <img src="https://github-profile-trophy.vercel.app/?username=matycode&theme=tokyonight&column=4&margin-w=15" />
 
 </div>
